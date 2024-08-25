@@ -54,17 +54,9 @@ In this project, I set up a Virtual Private Cloud (VPC) to host a static website
 15. **Domain Name and DNS Configuration:**
     - Registered a domain name and set up DNS records using AWS Route 53.
 
-## Project Setup
-
-### Prerequisites
-
-- AWS Account
-- Domain name (for DNS setup)
-- GitHub repository containing the static website files
-
 ### Deployment Steps
 
-1. **Clone the Project Repository:**
+ **Clone the Project Repository:**
    ```bash
    # Switch to the root user to gain full administrative privileges
    sudo su
