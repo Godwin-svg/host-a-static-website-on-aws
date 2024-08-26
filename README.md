@@ -75,7 +75,7 @@ In this project, I set up a Virtual Private Cloud (VPC) to host a static website
    yum install git -y
    
    # Clone the project GitHub repository to the current directory
-   git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
+   git clone https://github.com/Godwin-svg/host-a-static-website.git
    
    # Copy all files, including hidden ones, from the cloned repository to the Apache web root
    cp -R host-a-static-website-on-aws/. /var/www/html/
