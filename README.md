@@ -1,9 +1,10 @@
+![Alt text](/Host_a_static_website_on_AWS.jpg)
 
 ---
 
 # Static Website Hosting on AWS
 
-This project demonstrates how to host a static HTML web application on AWS, utilizing various AWS services to ensure a secure, scalable, and highly available deployment. The website is hosted on EC2 instances within a VPC configured with public and private subnets across multiple availability zones.
+I worked on an exciting project where I hosted a static HTML web application on AWS. I used different AWS services like IAM, VPC, subnets, Auto Scaling Groups, and an Application Load Balancer to make the deployment secure, scalable, and highly available. The website was hosted on EC2 instances within a VPC, which I set up with public and private subnets across multiple availability zones.
 
 ## Project Overview
 
